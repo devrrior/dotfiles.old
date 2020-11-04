@@ -16,3 +16,25 @@
 !.Xresources
 !.config
 !.local
+!.zshrc
+!.oh-my-zsh
+
+# Documentos/
+# Descargas/
+# Documents/
+# Downloads/
+# Escritorio/
+# github/
+# go/
+# Imágenes/
+# Música/
+# node_modules/
+# opt
+# package-lock.json
+# Pictures/
+# Plantillas/
+# Público/
+# snap/
+# snapd/
+# Vídeos/
+# workspace/
